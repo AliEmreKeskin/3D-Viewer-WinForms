@@ -1,0 +1,12 @@
+﻿cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  OpenGL_on_a_Windows_Form.cpp
+d:\staj\07.13\version 2.3 open file dialog\opengl_on_a_windows_form\opengl.h(120): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\staj\07.13\version 2.3 open file dialog\opengl_on_a_windows_form\opengl.h(123): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\staj\07.13\version 2.3 open file dialog\opengl_on_a_windows_form\opengl.h(124): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\yvals.h(987): warning STL4001: /clr:pure is deprecated and will be REMOVED.
+d:\staj\07.13\version 2.3 open file dialog\opengl_on_a_windows_form\form1.h(362): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\staj\07.13\version 2.3 open file dialog\opengl_on_a_windows_form\form1.h(367): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\staj\07.13\version 2.3 open file dialog\opengl_on_a_windows_form\form1.h(372): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\staj\07.13\version 2.3 open file dialog\opengl_on_a_windows_form\form1.h(377): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\staj\07.13\version 2.3 open file dialog\opengl_on_a_windows_form\form1.h(382): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  OpenGL_on_a_Windows_Form.vcxproj -> D:\staj\07.13\version 2.3 open file dialog\Debug\OpenGL_on_a_Windows_Form.exe
